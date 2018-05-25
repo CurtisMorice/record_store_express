@@ -1,0 +1,23 @@
+{
+    "name": "record_store_express",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server/server.js",
+    "scripts": {
+        "start": "node server/server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CurtisMorice/record_store_express.git"
+    },
+    "author": "Curtis Morice",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/CurtisMorice/record_store_express/issues"
+    },
+    "homepage": "https://github.com/CurtisMorice/record_store_express#readme",
+    "dependencies": {
+        "express": "^4.16.3"
+    }
+}

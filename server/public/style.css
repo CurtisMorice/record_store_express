@@ -1,0 +1,11 @@
+table {
+    width: 900px;
+    table-layout: inherit;
+    border-bottom-style: dotted;
+    border-style: dotted;
+    border-image: round;
+}
+
+input {
+    glyph-orientation-horizontal: inherit;
+}
